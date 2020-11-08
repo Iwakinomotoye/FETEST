@@ -1,0 +1,55 @@
+.accounts {
+    margin-bottom: 30px;
+    max-width: 100%;
+}
+.accounts .heading-three {
+    margin-bottom: 13px;
+}
+.account-container {
+    max-width: 100%;
+    overflow-x: auto;
+}
+.account-list {
+    display: flex;
+    width: fit-content;
+}
+.account {
+    background: linear-gradient(180deg, #4C54E1 0%, #6652E2 100%);
+    box-shadow: 0px 9px 19px -4px rgba(46, 51, 136, 0.12), 0px 3px 7px rgba(36, 40, 108, 0.02);
+    border-radius: 8px;
+    height: 157px;
+    width: 132px;
+    color: #fff;
+    margin-right: 16px;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+}
+.header-four {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 13px;
+    margin: 14px 0 0 16px;
+}
+.accounts .price {
+    margin: 9px 0 0 14px;
+}
+.accounts .currency {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18.8571px;
+    line-height: 22px;
+    margin-right: 3px;
+    position: relative;
+    top: -7px;
+}
+.accounts .amount {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 37.7143px;
+    line-height: 44px;
+}
+.user-icon {
+    margin: auto 0 16px 14px;
+}

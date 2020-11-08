@@ -1,0 +1,10 @@
+.transactions .heading-three {
+    margin-bottom: 11px;
+}
+.transaction {
+    background: #F9F9F9;
+    border-radius: 8px;
+    width: 100%;
+    min-height: 54px;
+    margin: 8px 0;
+}
